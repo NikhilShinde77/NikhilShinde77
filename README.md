@@ -1,24 +1,47 @@
 <div align="center">
 
-# 👋 Hey, I'm Shinde Nikhil
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C8FF,100:7B68EE&text=Shinde%20Nikhil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=MCA+Student;MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:6A5ACD&height=200&section=header&text=Shinde%20Nikhil&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Developer;🎓+MCA+Student;⚡+React+%7C+Node.js+%7C+MongoDB;🔥+Always+Learning+New+Technologies"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-<img height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
 </div>
 
 ---
 
-## 🚀 Tech Universe
+# 🌌 About Me
+
+```yaml
+Name: Shinde Nikhil
+Role: Full Stack Developer
+Education: MCA Student
+Location: Gujarat, India
+
+Skills:
+  - React.js
+  - Node.js
+  - Express.js
+  - MongoDB
+  - Java
+  - Python
+  - PHP
+  - MySQL
+
+Interests:
+  - Web Development
+  - Open Source
+  - UI/UX Design
+  - Software Engineering
+```
+
+---
+
+# 🚀 Tech Stack
 
 <div align="center">
 
@@ -28,82 +51,80 @@
 
 ---
 
-## ⚡ Frameworks & Libraries
+# ⚡ Frameworks & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,mysql" />
 
 </div>
 
 ---
 
-## 🌌 About Me
-
-```yaml
-Name: Shinde Nikhil
-Role: Full Stack Developer
-Education: MCA Student
-Location: Gujarat, India
-Focus:
-  - MERN Stack
-  - React Development
-  - Backend APIs
-  - Modern UI/UX
-Current Goal:
-  - Build Professional Projects
-  - Improve DSA
-  - Crack NIMCET
-```
-
----
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NikhilShinde77&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilShinde77&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=NikhilShinde77&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilShinde77&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-<a href="https://github.com/YOUR_USERNAME">
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/NikhilShinde77">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/nikhil-shinde-73b403331/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nikhilshinde15651@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/NIKHIL77KING/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/nikhilshinde1561">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </div>
@@ -112,6 +133,14 @@ Current Goal:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:6A5ACD&height=120&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=NikhilShinde77&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C8FF,100:7B68EE&section=footer"/>
 
 </div>
