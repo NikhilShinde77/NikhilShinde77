@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C8FF,100:7B68EE&text=Shinde%20Nikhil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Developer;🎓+MCA+Student;⚡+React+%7C+Node.js+%7C+MongoDB;🔥+Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Developer;🎓+Msc.it+Student;⚡+React+%7C+Node.js+%7C+MongoDB;🔥+Always+Learning+New+Technologies"/>
 
 </div>
 
