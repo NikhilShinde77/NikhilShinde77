@@ -19,7 +19,7 @@
 ```yaml
 Name: Shinde Nikhil
 Role: Full Stack Developer
-Education: MCA Student
+Education: Msc.it  Student
 Location: Gujarat, India
 
 Skills:
