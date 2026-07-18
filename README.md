@@ -1,113 +1,123 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C8FF,100:7B68EE&text=Shinde%20Nikhil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%8E%93+M.Sc.+IT+Student;%E2%9A%A1+React+%7C+Node.js+%7C+MongoDB;%F0%9F%94%A5+Always+Learning+New+Technologies"/>
-</div>
+<h3>
+<code>
+nikhil@github ~ $ ./contributions.sh
+</code>
+</h3>
 
----
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
-</div>
+<img src="./contrib-heatmap.svg" width="860">
 
----
 
-# 🌌 About Me
+<br><br>
 
-```yaml
-Name: Shinde Nikhil
-Role: Full Stack Developer
-Education: M.Sc. IT Student
-Location: Gujarat, India
-Skills:
-  - React.js
-  - Node.js
-  - Express.js
-  - MongoDB
-  - Java
-  - Python
-  - PHP
-  - MySQL
-Interests:
-  - Web Development
-  - Open Source
-  - UI/UX Design
-  - Software Engineering
-```
 
----
+<h3>
+<code>
+nikhil@github ~ $ whoami
+</code>
+</h3>
 
-# 🚀 Tech Stack & Tools
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,php,java,python,tailwind,bootstrap,git,github,vscode,figma,vercel,netlify" />
-</div>
+<table>
 
----
+<tr>
 
-# 📊 GitHub Analytics
+<td valign="top">
 
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NikhilShinde77&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilShinde77&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+<img src="./avi-ascii.svg" width="370">
 
----
+</td>
 
-# 🔥 GitHub Streak
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=NikhilShinde77&theme=tokyonight&hide_border=true"/>
-</div>
+<td valign="top">
 
----
+<img src="./info-card.svg" width="490">
 
-# 📈 Activity Graph
+</td>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilShinde77&theme=tokyo-night&hide_border=true"/>
-</div>
+</tr>
 
----
+</table>
 
-# 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+<br>
 
----
 
-# 🌐 Connect With Me
+<h3>
+<code>
+nikhil@github ~ $ projects
+</code>
+</h3>
 
-<div align="center">
 
-<a href="https://github.com/NikhilShinde77">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/nikhil-shinde-73b403331/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:nikhilshinde15651@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/NIKHIL77KING/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.hackerrank.com/profile/nikhilshinde1561">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+<pre>
 
-</div>
+🚀 Gym Management System
 
----
+MERN Stack
+MongoDB
+Express
+React
+Node.js
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NikhilShinde77&style=for-the-badge&color=blue"/>
-</div>
 
----
+🤖 Resume AI Builder
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C8FF,100:7B68EE&section=footer"/>
+React
+Node.js
+AI
+
+
+🎵 Skipe Music App
+
+React
+Express
+Redis
+
+
+</pre>
+
+
+<h3>
+<code>
+nikhil@github ~ $ skills
+</code>
+</h3>
+
+
+<pre>
+
+Languages:
+
+Python
+Java
+C
+JavaScript
+
+
+Backend:
+
+Node.js
+Express
+Redis
+
+
+DevOps:
+
+Docker
+Linux
+AWS
+
+
+Learning:
+
+DSA
+System Design
+Cloud
+
+</pre>
+
+
 </div>
