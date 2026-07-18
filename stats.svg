@@ -1,0 +1,59 @@
+<svg viewBox="0 0 420 240" xmlns="http://www.w3.org/2000/svg" font-family="Poppins,Arial,sans-serif">
+  <defs>
+    <linearGradient id="statBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0e14"/>
+      <stop offset="100%" stop-color="#12161f"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="418" height="238" rx="10" fill="url(#statBg)" stroke="#3a6bff" stroke-opacity="0.5"/>
+  <text x="24" y="34" font-size="16" font-weight="700" fill="#ffffff">Nikhil's GitHub Stats</text>
+
+  <g transform="translate(24,58)">
+    
+    <g transform="translate(0,0)" opacity="0">
+      <animate attributeName="opacity" begin="0.30s" dur="0.4s" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-40,0" to="0,0" begin="0.30s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+      <circle cx="6" cy="-4" r="5" fill="#1550e0"/>
+      <text x="20" y="0" font-size="14" fill="#c3cad6">Total Stars:</text>
+      <text x="230" y="0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">12</text>
+    </g>
+    <g transform="translate(0,34)" opacity="0">
+      <animate attributeName="opacity" begin="0.45s" dur="0.4s" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-40,34" to="0,34" begin="0.45s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+      <circle cx="6" cy="-4" r="5" fill="#1550e0"/>
+      <text x="20" y="0" font-size="14" fill="#c3cad6">Total Commits:</text>
+      <text x="230" y="0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">340</text>
+    </g>
+    <g transform="translate(0,68)" opacity="0">
+      <animate attributeName="opacity" begin="0.60s" dur="0.4s" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-40,68" to="0,68" begin="0.60s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+      <circle cx="6" cy="-4" r="5" fill="#1550e0"/>
+      <text x="20" y="0" font-size="14" fill="#c3cad6">Total PRs:</text>
+      <text x="230" y="0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">9</text>
+    </g>
+    <g transform="translate(0,102)" opacity="0">
+      <animate attributeName="opacity" begin="0.75s" dur="0.4s" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-40,102" to="0,102" begin="0.75s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+      <circle cx="6" cy="-4" r="5" fill="#1550e0"/>
+      <text x="20" y="0" font-size="14" fill="#c3cad6">Total Issues:</text>
+      <text x="230" y="0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">4</text>
+    </g>
+    <g transform="translate(0,136)" opacity="0">
+      <animate attributeName="opacity" begin="0.90s" dur="0.4s" to="1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-40,136" to="0,136" begin="0.90s" dur="0.45s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+      <circle cx="6" cy="-4" r="5" fill="#1550e0"/>
+      <text x="20" y="0" font-size="14" fill="#c3cad6">Contributed to:</text>
+      <text x="230" y="0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">3</text>
+    </g>
+  </g>
+
+  <g transform="translate(340,90)">
+    <circle r="54" fill="none" stroke="#232838" stroke-width="10"/>
+    <circle r="54" fill="none" stroke="#1e5fff" stroke-width="10" stroke-linecap="round"
+      transform="rotate(-90)"
+      stroke-dasharray="210.4 339.3" stroke-dashoffset="339.3">
+      <animate attributeName="stroke-dashoffset" from="339.3" to="128.9" begin="0.4s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+    </circle>
+    <text x="0" y="8" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">B+</text>
+  </g>
+</svg>
